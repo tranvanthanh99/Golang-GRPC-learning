@@ -1,0 +1,62 @@
+{
+  "id": "9ad433f3-2e6a-46b7-be2f-7c70ebc3ad0a",
+  "brand": "Lenovo",
+  "name": "Thinkpad P1",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 5 PRO 3500U",
+    "number_cores": 2,
+    "number_threads": 3,
+    "min_ghz": 2.8831635627868395,
+    "max_ghz": 4.61344232403199
+  },
+  "ram": {
+    "value": "23",
+    "unit": 5
+  },
+  "gpus": [
+    {
+      "brand": "Nvidia",
+      "name": "GTX 1660-Ti",
+      "min_ghz": 1.1290322376050714,
+      "max_ghz": 1.6336705618983893,
+      "memory": {
+        "value": "6",
+        "unit": 5
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": 2,
+      "memory": {
+        "value": "742",
+        "unit": 5
+      }
+    },
+    {
+      "driver": 1,
+      "memory": {
+        "value": "4",
+        "unit": 6
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 15.096152,
+    "resolution": {
+      "width": 6739,
+      "height": 3791
+    },
+    "panel": 2,
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": 2,
+    "backlit": false
+  },
+  "weight_kg": 2.992070739041397,
+  "price_usd": 1844.587423099777,
+  "release_year": 2015,
+  "updated_at": "2023-03-20T09:06:55.512558081Z"
+}
